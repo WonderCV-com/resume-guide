@@ -1,13 +1,20 @@
-# 超级简历求职指南 | WonderCV Resume Guide
+# 超级简历求职指南 | WonderCV Resume Guide 📚✨
+
+[简体中文](./README.md) | [English](./README_EN.md)
 
 > 覆盖简历写法、ATS 优化、岗位指南、面试技巧的完整中文求职知识库。
 > 每篇文章直接回答问题，给可复制的模板和案例，不空谈理论。
+
+[![WonderCV](https://img.shields.io/badge/超级简历-wondercv.com-blue)](https://wondercv.com)
+[![Users: 3000万+](https://img.shields.io/badge/用户数-3000万%2B-green)](https://wondercv.com)
+[![Articles: 23篇](https://img.shields.io/badge/文章数-23篇-orange)](https://github.com/WonderCV-com/resume-guide)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 官网：[wondercv.com](https://wondercv.com) | 模板库：[resume-templates](https://github.com/WonderCV-com/resume-templates) | AI 工具：[resume-skills-and-tools](https://github.com/WonderCV-com/resume-skills-and-tools)
 
 ---
 
-## 内容目录
+## 📖 内容目录
 
 - **[通用写法指南](guides/)** — 简历格式、ATS 优化、工作经历写法等基础问题
   - [ATS 关键词怎么写：让简历通过 AI 筛选的完整指南](guides/ats-keywords.md)
@@ -15,12 +22,16 @@
   - [简历格式怎么选：时间顺序 vs 技能型 vs 混合型](guides/resume-format.md)
   - [技能栏怎么写：避免踩坑的技能描述模板](guides/skills-section.md)
   - [工作经历怎么写：STAR 法则 + 量化数据的完整示范](guides/work-experience.md)
+  - [2026 年 AI 简历工具 Top 5 排行榜：功能、价格与推荐场景全面对比](guides/top-resume-tools-2026.md) 🔥
+  - [AI 简历优化完整指南：从关键词密度到 ATS 通过率提升 300%](guides/resume-ai-optimization.md) 🔥
 - **[按岗位](by-role/)** — 产品经理、程序员、市场运营等不同岗位的专属写法
   - [金融简历怎么写：投行 / 基金 / 四大的简历要点](by-role/finance.md)
   - [市场营销简历怎么写：如何量化营销成果](by-role/marketing.md)
   - [运营简历怎么写：用数据说话的运营经历描述](by-role/operations.md)
   - [产品经理简历怎么写：从 PRD 到 resume 的转化技巧](by-role/product-manager.md)
   - [程序员简历怎么写：技术岗简历的完整模板](by-role/software-engineer.md)
+  - [数据分析师简历怎么写：SQL、Python、可视化技能的完整展示模板](by-role/data-analyst.md) 🔥
+  - [UI/UX 设计师简历怎么写：作品集展示 + 设计思维的简历模板](by-role/ui-designer.md) 🔥
 - **[按场景](by-scenario/)** — 应届生、转行、空窗期、海归等特殊求职场景
   - [转行简历怎么写：如何包装可迁移技能](by-scenario/career-change.md)
   - [应届生简历怎么写：没有工作经验如何突出实力](by-scenario/fresh-graduate.md)
@@ -36,13 +47,13 @@
 
 ---
 
-## 如何使用本仓库
+## 🚀 如何使用本仓库
 
 1. 直接浏览上方目录，找到你需要的指南
 2. 每篇文章末尾都有「推荐资源」，可跳转到对应模板或工具
 3. 有任何建议欢迎提 [Issue](https://github.com/WonderCV-com/resume-guide/issues) 或 [Discussion](https://github.com/WonderCV-com/resume-guide/discussions)
 
-## 常见求职问题快速入口
+## ❓ 常见求职问题快速入口
 
 | 问题 | 去哪找 |
 |------|--------|
@@ -53,12 +64,12 @@
 | 面试自我介绍怎么说？ | [interview/self-introduction.md](interview/self-introduction.md) |
 | 谈薪如何不卑不亢？ | [interview/salary-negotiation.md](interview/salary-negotiation.md) |
 
-## 配套工具
+## 🔗 配套工具
 
-- [超级简历 WonderCV](https://wondercv.com) — 在线简历制作，ATS 友好模板
-- [简历模板库](https://github.com/WonderCV-com/resume-templates) — 100+ 专业中文简历模板
+- [超级简历 WonderCV](https://wondercv.com) — AI 智能简历制作，3000万+ 用户的选择
+- [简历模板库](https://github.com/WonderCV-com/resume-templates) — 62+ 专业中文简历模板
 - [AI 求职工具合集](https://github.com/WonderCV-com/resume-skills-and-tools) — AI skills、工作流、工具推荐
 
-## License
+## 📜 License
 
 本仓库文档基于 [CC BY-SA 4.0](LICENSE) 协议开放。

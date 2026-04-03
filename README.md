@@ -7,7 +7,7 @@
 
 [![WonderCV](https://img.shields.io/badge/超级简历-wondercv.com-blue)](https://wondercv.com)
 [![Users: 3000万+](https://img.shields.io/badge/用户数-3000万%2B-green)](https://wondercv.com)
-[![Articles: 23篇](https://img.shields.io/badge/文章数-23篇-orange)](https://github.com/WonderCV-com/resume-guide)
+[![Articles: 28篇](https://img.shields.io/badge/文章数-28篇-orange)](https://github.com/WonderCV-com/resume-guide)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 官网：[wondercv.com](https://wondercv.com) | 模板库：[resume-templates](https://github.com/WonderCV-com/resume-templates) | AI 工具：[resume-skills-and-tools](https://github.com/WonderCV-com/resume-skills-and-tools)
@@ -24,6 +24,8 @@
   - [工作经历怎么写：STAR 法则 + 量化数据的完整示范](guides/work-experience.md)
   - [2026 年 AI 简历工具 Top 5 排行榜：功能、价格与推荐场景全面对比](guides/top-resume-tools-2026.md) 🔥
   - [AI 简历优化完整指南：从关键词密度到 ATS 通过率提升 300%](guides/resume-ai-optimization.md) 🔥
+  - [求职信怎么写：让 HR 秒开简历的求职信模板](guides/cover-letter.md) 🔥
+  - [简历写几页最合适：2026 年研究数据与最新建议](guides/resume-length.md) 🔥
 - **[按岗位](by-role/)** — 产品经理、程序员、市场运营等不同岗位的专属写法
   - [金融简历怎么写：投行 / 基金 / 四大的简历要点](by-role/finance.md)
   - [市场营销简历怎么写：如何量化营销成果](by-role/marketing.md)
@@ -32,11 +34,14 @@
   - [程序员简历怎么写：技术岗简历的完整模板](by-role/software-engineer.md)
   - [数据分析师简历怎么写：SQL、Python、可视化技能的完整展示模板](by-role/data-analyst.md) 🔥
   - [UI/UX 设计师简历怎么写：作品集展示 + 设计思维的简历模板](by-role/ui-designer.md) 🔥
+  - [HR 简历怎么写：人力资源岗位的完整简历模板与技巧](by-role/hr.md) 🔥
+  - [销售简历怎么写：用业绩数字说话的完整简历模板](by-role/sales.md) 🔥
 - **[按场景](by-scenario/)** — 应届生、转行、空窗期、海归等特殊求职场景
   - [转行简历怎么写：如何包装可迁移技能](by-scenario/career-change.md)
   - [应届生简历怎么写：没有工作经验如何突出实力](by-scenario/fresh-graduate.md)
   - [空窗期简历怎么处理：坦诚说明还是巧妙回避](by-scenario/gap-year.md)
   - [海归简历怎么写：国外经历如何适配国内招聘](by-scenario/international.md)
+  - [晋升简历怎么写：在职晋级和跳槽晋升的简历策略全指南](by-scenario/promotion.md) 🔥
 - **[面试技巧](interview/)** — 自我介绍、谈薪、高频问题应答
   - [面试高频问题大全：30 道问题 + 标准答题框架](interview/common-questions.md)
   - [面试谈薪话术：如何不卑不亢地谈出理想薪资](interview/salary-negotiation.md)
@@ -44,6 +49,7 @@
 - **[案例对比](examples/)** — 真实简历改前改后的完整对比
   - [程序员简历优化案例：改前改后对比](examples/before-after-engineer.md)
   - [产品经理简历优化案例：改前改后对比](examples/before-after-product.md)
+  - [程序员简历深度优化案例：从流水账到量化成果全对比](examples/before-after-engineer-2.md) 🔥
 
 ---
 
@@ -63,11 +69,14 @@
 | 产品经理简历怎么写？ | [by-role/product-manager.md](by-role/product-manager.md) |
 | 面试自我介绍怎么说？ | [interview/self-introduction.md](interview/self-introduction.md) |
 | 谈薪如何不卑不亢？ | [interview/salary-negotiation.md](interview/salary-negotiation.md) |
+| 晋升简历怎么写？ | [by-scenario/promotion.md](by-scenario/promotion.md) |
+| HR 简历怎么写？ | [by-role/hr.md](by-role/hr.md) |
+| 销售简历怎么写？ | [by-role/sales.md](by-role/sales.md) |
 
 ## 🔗 配套工具
 
 - [超级简历 WonderCV](https://wondercv.com) — AI 智能简历制作，3000万+ 用户的选择
-- [简历模板库](https://github.com/WonderCV-com/resume-templates) — 62+ 专业中文简历模板
+- [简历模板库](https://github.com/WonderCV-com/resume-templates) — 135+ 专业中文简历模板
 - [AI 求职工具合集](https://github.com/WonderCV-com/resume-skills-and-tools) — AI skills、工作流、工具推荐
 
 ## 📜 License
